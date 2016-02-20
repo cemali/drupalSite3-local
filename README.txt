@@ -1,3 +1,3 @@
-To help consolidate and remove possible future inconsistencies, the
-documentation for this sub-theme starter kit has been moved to:
-http://drupal.org/node/1978010.
+# Drupalsite3-local is drupal 7 with bootstrap 3 with Sass.
+# The theme is We Build. and speaks on the web development positions that I work with today.
+#  
